@@ -1,11 +1,11 @@
 
-# 🛡️Authentication System
+# Authentication System
 
-🔴This Authentication System is made with NODEJS.🔴It Authenticates User and Direct them to Homescreen/Index page.🔴You can use `isAuthenticated` function to Protect Routes against Unauthenticated Users. 🔴 I used Passport Google OAuth2.0 to login/signup using Google. 🔴 I also used passport local to Authentication Users using classic singnup and sign in way. 
-🔴I have used MongoDB as Database to store User Schema.
+This Authentication System is made with NODEJS.It Authenticates User and Direct them to Homescreen/Index page.You can use `isAuthenticated` function to Protect Routes against Unauthenticated Users. 🔴 I used Passport Google OAuth2.0 to login/signup using Google.  I also used passport local to Authentication Users using classic singnup and sign in way. 
+I have used MongoDB as Database to store User Schema.
 ## 🪧Demo
 
-https://dhananjayk-authentication-system.onrender.com/
+
 
 
 
@@ -28,22 +28,6 @@ https://dhananjayk-authentication-system.onrender.com/
 ```
 ## 🪛Built With
 🟠NODEJS 🟠ExpressJS 🟠MongoDB 🟠Mongoose 🟠EJS 🟠Google OAuth2.0 🟠Passport Local
-## 🖼️Screenshots
-
-🔴Landing Page
-![Screenshot_1](https://user-images.githubusercontent.com/125384723/227831829-cef47e61-83f9-4ef4-955b-916c933b8cf6.png)
-
-🔴Login Page
-![Screenshot_2](https://user-images.githubusercontent.com/125384723/227832019-1cd74ffc-1f4b-4a7f-9188-a8fbc192ed4a.png)
-
-🔴Sign Up Page
-![Screenshot_1](https://user-images.githubusercontent.com/125384723/227887107-b69ea9c5-3b8b-4fce-8895-aff3a155ae0b.png)
-
-🔴Home Page (after authentication)
-![Screenshot_4](https://user-images.githubusercontent.com/125384723/227832062-5ba11558-9554-4c89-b442-cc36bda28074.png)
-
-🔴Change Password Page
-![Screenshot_5](https://user-images.githubusercontent.com/125384723/227832080-50eaeda9-4536-4e76-af89-a0d8f4dcb840.png)
 
 ## ✨Features
 
@@ -69,14 +53,8 @@ https://dhananjayk-authentication-system.onrender.com/
 ● NOTE - I INTENTIONALLY REMOVED FRONT END VALIDATION AND DID NOT ADDED `required` IN MY HTML CODE TO SHOWCASE MY SERVER SIDE VALIDATION.
 ## 🚦Version
 1.0 - Running Succesfully with above feature.
-## 👦Contact
-🔗 Author - @Dhananjay Khodaskar 
 
-ya695678@gmail.com / dhananjaykhodaskar27@gmai.com 
 
-+91-7057218243
 
-✅ Linkedin ✅ https://www.linkedin.com/in/dhananjay-khodaskar-5333b2239 ✅
 
-✅ Github   ✅ https://github.com/DhananjayKhodaskar✅
 
